@@ -35,9 +35,6 @@
 	<a href='#'>
 		<img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C Programming'>
 	</a>
-	<a href='#'>
-		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='Java'>
-	</a>
 	<a href='https://www.php.net/'>
 		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
 	</a>
