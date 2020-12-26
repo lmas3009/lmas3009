@@ -9,6 +9,8 @@
 - 🧧 Look at my portfolio https://aravindkumarvemula.netlify.app/
 - ⚙ Look at my repository at https://github.com/lmas3009?tab=repositories
 -  Look at my total Review https://sourcerer.io/lmas3009
+-  Follow me in Medium https://aravind3009.medium.com/
+-  Follow me in LinkedIn https://www.linkedin.com/in/aravind-kumar-vemula-53bb80194/
 <!-- - 👯 I’m working in FullTimeDevlopers...-->
 
 ## 🔧 Langs / Tools / Frameworks
