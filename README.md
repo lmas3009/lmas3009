@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Web and App Design...
 - 🌱 I’m currently learning React Native,React-Js...
-- 🧧 Look at my portfolio https://aravindkumarvemula.netlify.app/
+- 🧧 Look at my portfolio http://lmas3009.github.io/
 - ⚙ Look at my repository at https://github.com/lmas3009?tab=repositories
 -  Look at my total Review https://sourcerer.io/lmas3009
 -  Follow me in Medium https://aravind3009.medium.com/
