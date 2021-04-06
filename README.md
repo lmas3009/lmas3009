@@ -1,8 +1,4 @@
-### Hello Here 👋
-
-
-**lmas3009/lmas3009** is a ✨ _special_ ✨ repository.
-
+### Aravind Kumar Vemula 👋
 
 - 🔭 I’m currently working on Web and App Design...
 - 🌱 I’m currently learning React Native,React-Js...
@@ -12,6 +8,10 @@
 -  Follow me in Medium https://aravind3009.medium.com/
 -  Follow me in LinkedIn https://www.linkedin.com/in/aravind-kumar-vemula-53bb80194/
 <!-- - 👯 I’m working in FullTimeDevlopers...-->
+
+|   Contributions   |   Language Preference   |
+| ---- | ---- |
+|   ![](https://github-readme-stats.vercel.app/api?username=lmas3009&count_private=true&show_icons=true&theme=radical)   |![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmas3009&count_private=true&show_icons=true&theme=radical&layout=compact)|
 
 ## 🔧 Langs / Tools / Frameworks
 <div align='left' style="display: flex; justify-content: space-between;">
